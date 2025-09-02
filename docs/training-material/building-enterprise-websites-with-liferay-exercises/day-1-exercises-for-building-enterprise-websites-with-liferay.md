@@ -145,7 +145,7 @@ Throughout this training, you’ll use a local Liferay environment to build Clar
    * Username: `admin@clarityvisionsolutions.com`
    * Password: `learn`
 
-1. Once logged in, open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Search*.
+1. Once logged in, open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Search*.
 
 1. Go to the *Index Actions* tab and click *Reindex* for All Search Indexes.
 
@@ -175,7 +175,7 @@ The training workspace already includes all of these users except for Christian 
 
 To do this,
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Users and Organizations*.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Users and Organizations*.
 
    ![Open the Users and Organization application in the Global Menu.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson3/images/02.png)
 
@@ -185,7 +185,7 @@ To do this,
 
 1. Click *New*.
 
-1. To set the user's profile image, click the *Change Image* button (![Change Image Button](./../../../../../dxp/latest/en/images/icon-change.png)), click *Select*, navigate to the `classroom-exercises/lesson-3/` folder in the training workspace, select `christian-carter.png`, and click *Done*.
+1. To set the user's profile image, click the *Change Image* button (![Change Image Button](./../../../images/icon-change.png)), click *Select*, navigate to the `classroom-exercises/lesson-3/` folder in the training workspace, select `christian-carter.png`, and click *Done*.
 
    ![Set Christian Carter's profile image.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson3/images/04.png)
 
@@ -231,7 +231,7 @@ The training workspace includes both the IT and Human Resources user groups. Her
 
 To do this,
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *User Groups*.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *User Groups*.
 
    ![Go the User Groups application in the Global Menu.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson3/images/07.png)
 
@@ -280,7 +280,7 @@ The training workspace includes all of these roles except for Marketing Coordina
 
 To begin,
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Roles*.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Roles*.
 
 1. Click *New*.
 
@@ -321,9 +321,9 @@ Throughout this process, you'll impersonate Christian Carter to see the practica
 
 To do this,
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Users and Organizations*.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Users and Organizations*.
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) for Christian Carter and select *Impersonate User*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) for Christian Carter and select *Impersonate User*.
 
    ![Impersonate Christian Carter.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson3/images/13.png)
 
@@ -359,7 +359,7 @@ To do this,
 
 1. Refresh the tab where you're impersonating Christian Carter.
 
-   Now he can access the Asset Libraries application in the Global Menu (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)).
+   Now he can access the Asset Libraries application in the Global Menu (![Global Menu](./../../../images/icon-applications-menu.png)).
 
    ![Christian Carter can now access the Asset Libraries application in the Global Menu.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson3/images/16.png)
 
@@ -378,7 +378,7 @@ To do this,
 
 1. Return to the Clarity Admin tab.
 
-1. In the Global Menu (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to *Asset Libraries* and click *Marketing Assets*.
+1. In the Global Menu (![Global Menu](./../../../images/icon-applications-menu.png)), go to *Asset Libraries* and click *Marketing Assets*.
 
 1. Click *Memberships* and go to the *User Groups* tab.
 
@@ -394,7 +394,7 @@ To do this,
 
 1. Return to the Clarity Admin tab.
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) for the Marketing user group and select *Assign Roles*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) for the Marketing user group and select *Assign Roles*.
 
    ![Click Actions for the Marketing user group and select Assign Roles.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson3/images/18.png)
 
@@ -520,7 +520,7 @@ To do this,
 
    **Note**: So far we've used Clarity's administrator user, which has complete control over the Liferay instance. In practice, it's best to limit the use of such high-level accounts to ensure optimal security.
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Sites*.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Sites*.
 
 1. Click *New*.
 
@@ -546,9 +546,9 @@ Here you'll add them to the site as Ian Miller.
 
 To do this,
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)) and select *Clarity Public Enterprise Website* in the right panel.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)) and select *Clarity Public Enterprise Website* in the right panel.
 
-1. Open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *People*, and select *Memberships*.
+1. Open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *People*, and select *Memberships*.
 
 1. Click *New*.
 
@@ -560,7 +560,7 @@ To do this,
 
    ![Now all 5 Clarity's personas are members of the site.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson4/images/01.png)
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) for Christian Carter and select *Assign Roles*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) for Christian Carter and select *Assign Roles*.
 
 1. Select the *Site Content Contributor* role and click *Done*.
 
@@ -585,7 +585,7 @@ To do this,
 
 1. Ensure you're in the *Clarity Public Enterprise Website*.
 
-1. Open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Configuration*, and select *Site Settings*.
+1. Open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Configuration*, and select *Site Settings*.
 
    ![Go to Site Settings to configure the site.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson4/images/02.png)
 
@@ -617,7 +617,7 @@ To do this,
 
    **Note**: Before setting the virtual host in Liferay, you must contact your provider and set the DNS name to point to the IP address for your Liferay DXP instance.
 
-1. Click *Add* (![Add Button](./../../../../../dxp/latest/en/images/icon-add.png)) to add an extra virtual host for Spanish with the URL `www.solucionesdeclaridad.com`.
+1. Click *Add* (![Add Button](./../../../images/icon-add.png)) to add an extra virtual host for Spanish with the URL `www.solucionesdeclaridad.com`.
 
    This way their Spanish speaking audience can access the site using a localized domain name.
 
@@ -627,7 +627,7 @@ To do this,
 
 1. Return to the *Site Settings* page and go to *Localization*.
 
-1. Click *Define a custom default language* and use the *right arrow* button (![Right Arrow Button](./../../../../../dxp/latest/en/images/icon-caret-right.png)) to remove all languages except for English and Spanish.
+1. Click *Define a custom default language* and use the *right arrow* button (![Right Arrow Button](./../../../images/icon-caret-right.png)) to remove all languages except for English and Spanish.
 
    For now, Clarity only wants to support English (United States) and Spanish (Spain) for content localization on their site.
 
@@ -662,7 +662,7 @@ To do this,
    * Username: `admin@clarityvisionsolutions.com`
    * Password: `learn`
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Instance Settings*.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Instance Settings*.
 
 1. Under Platform, click *Instance Configuration* and go to the *General*  tab.
 
@@ -713,7 +713,7 @@ To add the FAQ content page,
 
    **Note**: As a web developer, Walter Douglas has the site administrator role and perform most actions within the enterprise website.
 
-1. Open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Site Builder*, and click *Pages*.
+1. Open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Site Builder*, and click *Pages*.
 
 1. In the Static Pages tab, click *New*.
 
@@ -751,7 +751,7 @@ The training workspace includes all necessary display pages except for the *Lead
 
 To do this,
 
-1. Open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Design*, and click *Page Templates*.
+1. Open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Design*, and click *Page Templates*.
 
 1. Go to the *Display Page Templates* tab.
 
@@ -775,7 +775,7 @@ To do this,
 
 1. For now, leave the template blank and click *Publish*.
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) for the Leadership Profile template and select *Mark as Default*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) for the Leadership Profile template and select *Mark as Default*.
 
    This ensures leadership profile articles use this template.
 
@@ -795,13 +795,13 @@ To do this,
 
 1. Click the *Primary Master Page* template to begin editing it.
 
-1. Open the *Fragments and Widgets* tab (![Fragments and Widgets](./../../../../../dxp/latest/en/images/icon-plus.png)) in the left side panel.
+1. Open the *Fragments and Widgets* tab (![Fragments and Widgets](./../../../images/icon-plus.png)) in the left side panel.
 
 1. Drag and drop a *Container* fragment to the top of the template. This container is for the page header.
 
    **Note**: When designing a page, it’s recommended to always put elements into their own containers. This can help provide more control over styling.
 
-1. Go to the *Browser* tab (![Browser Tab](./../../../../../dxp/latest/en/images/icon-hierarchy.png)) in the side panel, double-click the name of the container and rename it `Page Header`.
+1. Go to the *Browser* tab (![Browser Tab](./../../../images/icon-hierarchy.png)) in the side panel, double-click the name of the container and rename it `Page Header`.
 
    **Note**: Naming fragments adds a custom `data-name` attribute to the `<div>` that you can use in your JavaScript and CSS. This can help bring clarity to complex page structures and provide more control over your site.
 
@@ -830,7 +830,7 @@ To do this,
 
    **Note**: Use the green boxes to add padding. This adds space between the container and its contents.
 
-   You'll see these settings take effect when you add page elements to the container. For now, leave this container empty and toggle its visibility (![Visibility Icon](./../../../../../dxp/latest/en/images/icon-preview.png)); you’ll revisit it in a later exercise.
+   You'll see these settings take effect when you add page elements to the container. For now, leave this container empty and toggle its visibility (![Visibility Icon](./../../../images/icon-preview.png)); you’ll revisit it in a later exercise.
 
 1. Select the *Header Navigation Bar* container and configure these settings:
 
@@ -939,11 +939,11 @@ Clarity needs a simplified master page for pages that shouldn't include the anno
 
 To do this,
 
-1. While in the Masters tab of the Page Templates application, click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) for the Primary Master Page and select *Make a Copy* &rarr; *Master Page*.
+1. While in the Masters tab of the Page Templates application, click *Actions* (![Actions Button](./../../../images/icon-actions.png)) for the Primary Master Page and select *Make a Copy* &rarr; *Master Page*.
 
    ![Make a copy of the Primary Master Page template.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson6/images/14.png)
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) for the copy and select *Rename*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) for the copy and select *Rename*.
 
 1. Enter `Secondary Master Page` and click *Save*.
 
@@ -976,11 +976,11 @@ To do this,
    <!-- * 404 Error (Utility Page)
    * 500 Error (Utility Page) -->
 
-   <!-- To access the utility pages, open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Site Builder*, click *Pages*, and go to the *Utility Pages* tab. -->
+   <!-- To access the utility pages, open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Site Builder*, click *Pages*, and go to the *Utility Pages* tab. -->
 
-   To access the display page template, open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Design*, click *Page Templates* and go to the *Display Page Templates* tab.
+   To access the display page template, open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Design*, click *Page Templates* and go to the *Display Page Templates* tab.
 
-1. Go to the *Page Design Options* tab (![Page Design Options](./../../../../../dxp/latest/en/images/icon-format.png)) in the left side panel.
+1. Go to the *Page Design Options* tab (![Page Design Options](./../../../images/icon-format.png)) in the left side panel.
 
 1. Select the appropriate *master page*.
 
@@ -1011,7 +1011,7 @@ Here you'll create this custom navigation menu as Walter Douglas.
 
 To do this,
 
-1. Open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Site Builder*, and click *Navigation Menus*.
+1. Open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Site Builder*, and click *Navigation Menus*.
 
 1. Click *New*.
 
@@ -1046,7 +1046,7 @@ To do this,
 
    This saves your changes to the menu.
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) for one of the menu items and select *View Info*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) for one of the menu items and select *View Info*.
 
    This opens a side panel where you can update its display name if desired.
 
@@ -1091,7 +1091,7 @@ To do this,
 
 1. Select the *menu display* fragment in the header.
 
-1. In the configuration side panel, click *Change Source* (![Change Source Button](./../../../../../dxp/latest/en/images/icon-change.png)) for the menu's source.
+1. In the configuration side panel, click *Change Source* (![Change Source Button](./../../../images/icon-change.png)) for the menu's source.
 
 1. Click *Header Page Menu* and click *Select This Level*.
 
@@ -1115,7 +1115,7 @@ The training workspace includes a set of custom fragments called Clarity compone
 
 To do this,
 
-1. Open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Design*, and click *Fragments*.
+1. Open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Design*, and click *Fragments*.
 
 1. Under Fragment Sets, click *Clarity Components*.
 
@@ -1153,7 +1153,7 @@ While in the Fragments application,
 
 1. Under Fragment Sets, click *Clarity Page Compositions*.
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) for the fragment set and select *Import*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) for the fragment set and select *Import*.
 
    ![Import the compositions to Clarity Page Compositions fragment set.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson8/images/03.png)
 
@@ -1186,7 +1186,7 @@ To do this,
 
    ![Add the Search Button fragment to the Header User Actions container.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson8/images/04.png)
 
-1. In the Browser side panel (![Browser Tab](./../../../../../dxp/latest/en/images/icon-hierarchy.png)), select the *link* sub-element for the Search Button fragment.
+1. In the Browser side panel (![Browser Tab](./../../../images/icon-hierarchy.png)), select the *link* sub-element for the Search Button fragment.
 
 1. In the configuration side panel, go to the *Link* tab and configure these settings:
 
@@ -1253,9 +1253,9 @@ Here you’ll use the Global CSS client extension to overwrite these options as 
 
 To do this,
 
-1. Open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Site Builder*, and click *Pages*.
+1. Open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Site Builder*, and click *Pages*.
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) in the Application Bar and select *Configuration*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) in the Application Bar and select *Configuration*.
 
 1. Click *Change Current Theme* and select *Dialect*.
 
@@ -1263,11 +1263,11 @@ To do this,
 
    **Note**: Themes determine the baseline look and feel for your website, including color schemes, typography, spacing, and other styling options. They serve as the starting point for additional configurations that you can make using style books and frontend client extensions.
 
-1. Under Basic Settings, click *Select Favicon* (![Select Favicon](./../../../../../dxp/latest/en/images/icon-change.png)) and add the `clarity-favicon.svg` file found in the `[repository-folder]/classroom-exercises/lesson-8/` folder.
+1. Under Basic Settings, click *Select Favicon* (![Select Favicon](./../../../images/icon-change.png)) and add the `clarity-favicon.svg` file found in the `[repository-folder]/classroom-exercises/lesson-8/` folder.
 
    **Note**: Favicons are images used to identify sites in browser tabs.
 
-1. Click *Change Logo* (![Change Logo](./../../../../../dxp/latest/en/images/icon-change.png)) and select the `clarity-logo-c.png` file.
+1. Click *Change Logo* (![Change Logo](./../../../images/icon-change.png)) and select the `clarity-logo-c.png` file.
 
    **Note**: The logo determines the image used to identify the site in the Liferay UI.
 
@@ -1315,11 +1315,11 @@ To deploy Clarity's global CSS client extension:
 
    Now that you've deployed the client extension, you can apply it to your pages.
 
-1. In Clarity's site, open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Site Builder*, and click *Pages*.
+1. In Clarity's site, open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Site Builder*, and click *Pages*.
 
-1. Click *Actions* (![Actions Button](./../../../../../dxp/latest/en/images/icon-actions.png)) in the Application Bar and select *Configuration*.
+1. Click *Actions* (![Actions Button](./../../../images/icon-actions.png)) in the Application Bar and select *Configuration*.
 
-1. Under Customization, click *Plus* (![Plus Button](./../../../../../dxp/latest/en/images/icon-plus.png)) for CSS Client Extensions and select *Clarity Global CSS*.
+1. Under Customization, click *Plus* (![Plus Button](./../../../images/icon-plus.png)) for CSS Client Extensions and select *Clarity Global CSS*.
 
    ![Apply the Clarity Global CSS to site pages.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson8/images/08.png)
 
@@ -1343,7 +1343,7 @@ The training workspace already includes multiple libraries for Clarity's assets.
 
 To do this,
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Applications* tab, and click *Asset Libraries*.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Applications* tab, and click *Asset Libraries*.
 
 1. Click *New* and enter the name `Clarity Branding and Logo`.
 
@@ -1393,7 +1393,7 @@ To do this,
 
 1. Go to *Clarity Public Enterprise Website*.
 
-1. Open the *Site Menu* (![Site Menu](./../../../../../dxp/latest/en/images/icon-product-menu.png)), expand *Design*, and select *Page Templates*.
+1. Open the *Site Menu* (![Site Menu](./../../../images/icon-product-menu.png)), expand *Design*, and select *Page Templates*.
 
 1. In the Master tab, click *Primary Master Page* to begin editing it.
 
@@ -1401,7 +1401,7 @@ To do this,
 
    This selects the fragment's *image-square* sub-element and opens its configuration options.
 
-1. In the configuration side panel, click *Select Image* (![Select Image Button](./../../../../../dxp/latest/en/images/icon-plus.png)).
+1. In the configuration side panel, click *Select Image* (![Select Image Button](./../../../images/icon-plus.png)).
 
 1. Click *Sites and Libraries* in the breadcrumb menu.
 
@@ -1432,7 +1432,7 @@ To do this,
 
    All pages using the master page are now automatically updated.
 
-   **Important**: If the image does not update for you, you must clear the Liferay server's cache. To do this, sign in as the Clarity Admin user, open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Server Administration*. Then, click *Execute* for the "Clear content cached across the cluster" operation.
+   **Important**: If the image does not update for you, you must clear the Liferay server's cache. To do this, sign in as the Clarity Admin user, open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Control Panel* tab, and click *Server Administration*. Then, click *Execute* for the "Clear content cached across the cluster" operation.
 
    ![Select logo-name-vector to add the image to the header and logo-full-name-vector to the footer.](./day-1-exercises-for-building-enterprise-websites-with-liferay/lesson9/images/04.png)
 
@@ -1453,7 +1453,7 @@ To do this,
    * Email: `christian.carter@clarityvisionsolutions.com`
    * Password: `learn`
 
-1. Open the *Global Menu* (![Global Menu](./../../../../../dxp/latest/en/images/icon-applications-menu.png)), go to the *Applications* tab, and click *Asset Libraries*.
+1. Open the *Global Menu* (![Global Menu](./../../../images/icon-applications-menu.png)), go to the *Applications* tab, and click *Asset Libraries*.
 
 1. Select the *Marketing Assets* library and *Web Content*.
 
@@ -1471,7 +1471,7 @@ To do this,
    | Basic    | Required Field  | Yes       |
    | Advanced | Field Reference | `message` |
 
-1. Click the *back arrow* (![Back Arrow](./../../../../../dxp/latest/en/images/icon-angle-left.png)) to return to the Builder sidebar menu.
+1. Click the *back arrow* (![Back Arrow](./../../../images/icon-angle-left.png)) to return to the Builder sidebar menu.
 
 1. Drag and drop another *Text* field just below the first one.
 
@@ -1584,7 +1584,7 @@ To do this,
 
    <!--TASK: Improve the following instructions.-->
 
-1. In the Browser side panel (![Browser](./../../../../../dxp/latest/en/images/icon-hierarchy.png)), select the *Banner* container.
+1. In the Browser side panel (![Browser](./../../../images/icon-hierarchy.png)), select the *Banner* container.
 
 1. Select the *Image* fragment in the *Banner* container.
 
@@ -1596,7 +1596,7 @@ To do this,
 
 1. For Source Selection, select *Mapping*.
 
-1. For Item, click *Select Item* (![Select Item Button](./../../../../../dxp/latest/en/images/icon-plus.png)).
+1. For Item, click *Select Item* (![Select Item Button](./../../../images/icon-plus.png)).
 
 1. Go to the *Documents and Media* tab and click *Sites and Libraries* in the breadcrumb menu.
 
@@ -1610,7 +1610,7 @@ To do this,
 
 1. Repeat steps 4-9 for the *Image* fragment in the Clarity Solutions Promo container and select the `sunglasses-on-shelves` image from the Marketing Assets asset library.
 
-1. In the Browser side panel (![Browser](./../../../../../dxp/latest/en/images/icon-hierarchy.png)), select the *Content Wrapper* container in the Clarity Solutions Promo container.
+1. In the Browser side panel (![Browser](./../../../images/icon-hierarchy.png)), select the *Content Wrapper* container in the Clarity Solutions Promo container.
 
    Here you'll use a background image instead of an image sub-element.
 
